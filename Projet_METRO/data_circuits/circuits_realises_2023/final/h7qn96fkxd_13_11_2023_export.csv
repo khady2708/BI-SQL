@@ -1,0 +1,5 @@
+Date;Rue;Latitude;Longitude;Vitesse;Etat;Distance;Infos
+13/11/23 05:18:31;Avenue Ambroise Croizat, Grenoble;45.185143;5.749395;;ALERTE;362;C - Débordement - Surcharge
+13/11/23 06:14:15;Rue Anatole France, Saint-Martin-d'Hères;45.182785;5.752572;;ALERTE;158;NC - Non sortis
+13/11/23 06:15:24;Avenue Ambroise Croizat, Saint-Martin-d'Hères;45.184128;5.753243;;ALERTE;391;NC - Non sortis
+13/11/23 06:32:52;Rue Marie Margaron-Jallet, Saint-Martin-d'Hères;45.1819;5.757102;;ALERTE;0;C - Travaux

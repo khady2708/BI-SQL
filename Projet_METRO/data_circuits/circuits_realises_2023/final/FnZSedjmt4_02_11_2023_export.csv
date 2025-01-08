@@ -1,0 +1,5 @@
+Date;Rue;Latitude;Longitude;Vitesse;Etat;Distance;Infos
+02/11/23 05:33:51;D 1075, Grenoble;45.197758;5.71851;;ALERTE;0;C - Débordement - Surcharge
+02/11/23 05:34:08;D 1075, Grenoble;45.197758;5.718513;;ALERTE;978;C - Débordement - Surcharge
+02/11/23 06:09:46;Rue d'Alsace, Grenoble;45.189163;5.721112;;ALERTE;428;NC - Mauvais tri
+02/11/23 06:40:03;Cours Jean Jaurès, Grenoble;45.185738;5.718615;;ALERTE;0;NC - Mauvais tri

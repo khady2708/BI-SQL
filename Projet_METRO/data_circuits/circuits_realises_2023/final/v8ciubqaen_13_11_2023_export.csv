@@ -1,0 +1,10 @@
+Date;Rue;Latitude;Longitude;Vitesse;Etat;Distance;Infos
+13/11/23 09:41:35;Impasse de La Fontaine, Grenoble;45.164852;5.740711;;ALERTE;151;NC - Stationnement gênant
+13/11/23 09:43:49;Chemin du Parc, Grenoble;45.164547;5.73884;;ALERTE;702;NC - Non sortis
+13/11/23 10:15:53;Avenue La Bruyère, Grenoble;45.166595;5.730376;;ALERTE;129;NC - Non sortis
+13/11/23 10:19:46;Rue des Bergeronnettes, Grenoble;45.16774;5.730126;;ALERTE;520;NC - Non sortis
+13/11/23 11:09:14;Avenue La Bruyère, Grenoble;45.16647;5.723749;;ALERTE;454;C - Débordement - Surcharge
+13/11/23 11:23:21;Rue Lucien Andrieux, Grenoble;45.16293;5.720878;;ALERTE;118;C - Débordement - Surcharge
+13/11/23 11:26:49;Rue Lucien Andrieux, Grenoble;45.161877;5.720726;;ALERTE;77;C - Mauvais tri
+13/11/23 11:35:55;Rue Francis Jammes, Grenoble;45.161983;5.719751;;ALERTE;1715;C - Mauvais tri
+13/11/23 12:22:08;Rue Paul Helbronner, Grenoble;45.165535;5.741026;;ALERTE;0;NC - Non sortis

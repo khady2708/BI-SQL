@@ -1,0 +1,6 @@
+Date;Rue;Latitude;Longitude;Vitesse;Etat;Distance;Infos
+13/11/23 06:04:28;Place de Gordes, Grenoble;45.192245;5.727488;;ALERTE;169;NC - Dépôts sauvages
+13/11/23 06:13:03;Rue Lafayette, Grenoble;45.191742;5.729527;;ALERTE;92;C - Défectueux
+13/11/23 06:19:13;Rue Barnave, Grenoble;45.192532;5.729856;;ALERTE;268;NC - Dépôts sauvages
+13/11/23 07:45:40;Rue de la République, Grenoble;45.190842;5.727425;;ALERTE;3;C - Bacs avalés
+13/11/23 07:46:58;Rue de la République, Grenoble;45.190865;5.7274;;ALERTE;0;C - Cassés par la collecte

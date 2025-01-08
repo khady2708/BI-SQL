@@ -1,0 +1,8 @@
+Date;Rue;Latitude;Longitude;Vitesse;Etat;Distance;Infos
+10/11/23 09:57:23;Rue des Colibris, Grenoble;45.167492;5.730067;;ALERTE;373;C - Stationnement gênant
+10/11/23 10:30:57;Rue Alfred de Vigny, Grenoble;45.16872;5.725641;;ALERTE;139;NC - Mauvais jour
+10/11/23 10:32:51;Rue Leconte de Lisle, Grenoble;45.168201;5.727259;;ALERTE;369;NC - Non sortis
+10/11/23 10:46:18;Avenue La Bruyère, Grenoble;45.166561;5.731341;;ALERTE;753;NC - Non sortis
+10/11/23 10:47:38;Rue Paul Helbronner, Grenoble;45.165642;5.740849;;ALERTE;1691;NC - Non sortis
+10/11/23 11:37:42;Rue Francis Jammes, Grenoble;45.161781;5.719995;;ALERTE;658;NC - Non sortis
+10/11/23 12:27:03;Allée des Deux Mondes, Grenoble;45.165264;5.72677;;ALERTE;0;C - Défectueux

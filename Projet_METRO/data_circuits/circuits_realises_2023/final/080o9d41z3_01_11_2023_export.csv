@@ -1,0 +1,14 @@
+Date;Rue;Latitude;Longitude;Vitesse;Etat;Distance;Infos
+01/11/23 05:06:02;Avenue Aristide Bergès, Seyssinet-Pariset;45.18446;5.692658;;ALERTE;115;NC - REFUS QUALITE TRI
+01/11/23 05:08:31;Avenue Aristide Bergès, Seyssinet-Pariset;45.184601;5.694117;;ALERTE;439;NC - REFUS QUALITE TRI
+01/11/23 05:27:36;Rue Jean-Jacques Rousseau, Seyssinet-Pariset;45.18235;5.689521;;ALERTE;231;NC - REFUS QUALITE TRI
+01/11/23 05:34:35;Rue du Moucherotte, Seyssinet-Pariset;45.18034;5.688799;;ALERTE;226;NC - REFUS QUALITE TRI
+01/11/23 05:43:59;Rue de Pacalaire, Seyssinet-Pariset;45.180664;5.691647;;ALERTE;131;NC - REFUS QUALITE TRI
+01/11/23 05:54:14;Rue du Moucherotte, Seyssinet-Pariset;45.180706;5.689973;;ALERTE;324;NC - REFUS QUALITE TRI
+01/11/23 06:03:32;Rue de la Levade, Seyssinet-Pariset;45.178078;5.688186;;ALERTE;155;C - Défectueux
+01/11/23 06:07:00;Avenue du Vercors, Seyssinet-Pariset;45.179337;5.687353;;ALERTE;28;NC - REFUS QUALITE TRI
+01/11/23 06:10:59;Avenue du Vercors, Seyssinet-Pariset;45.179585;5.687392;;ALERTE;133;NC - REFUS QUALITE TRI
+01/11/23 06:17:28;Rue de la Résistance, Seyssinet-Pariset;45.179176;5.6858;;ALERTE;207;NC - REFUS QUALITE TRI
+01/11/23 06:25:16;Rue de la Résistance, Seyssinet-Pariset;45.177319;5.685869;;ALERTE;15;NC - REFUS QUALITE TRI
+01/11/23 06:26:02;Rue de la Résistance, Seyssinet-Pariset;45.177204;5.685972;;ALERTE;1345;NC - REFUS QUALITE TRI
+01/11/23 07:07:22;Route de Saint-Nizier, Seyssinet-Pariset;45.169876;5.672328;;ALERTE;0;NC - REFUS QUALITE TRI

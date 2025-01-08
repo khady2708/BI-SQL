@@ -1,0 +1,4 @@
+Date;Rue;Latitude;Longitude;Vitesse;Etat;Distance;Infos
+01/11/23 05:31:55;Rue des Essarts, Gières;45.188042;5.77725;;ALERTE;230;NC - Non conformes
+01/11/23 05:35:49;Rue de la Condamine, Gières;45.186569;5.779303;;ALERTE;24;C - Bacs avalés
+01/11/23 05:53:39;Rue de la Condamine, Gières;45.186363;5.779399;;ALERTE;0;NC - Encombrants dans les bacs

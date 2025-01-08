@@ -1,0 +1,43 @@
+Date;Rue;Latitude;Longitude;Vitesse;Etat;Distance;Infos
+06/11/23 05:14:46;Domaine de Riveyry, Champagnier;45.110497;5.727018;;ALERTE;44;C - Défectueux
+06/11/23 05:15:49;Domaine de Riveyry, Champagnier;45.110764;5.727423;;ALERTE;85;C - Défectueux
+06/11/23 05:17:03;Domaine de Riveyry, Champagnier;45.111145;5.726479;;ALERTE;18;C - Défectueux
+06/11/23 05:17:33;Domaine de Riveyry, Champagnier;45.110985;5.726429;;ALERTE;48;C - Défectueux
+06/11/23 05:18:30;Domaine de Riveyry, Champagnier;45.11055;5.726435;;ALERTE;45;C - Défectueux
+06/11/23 05:23:11;Chemin du Gal, Champagnier;45.110455;5.72588;;ALERTE;141;C - Défectueux
+06/11/23 05:24:45;Chemin de Ferrandière, Champagnier;45.111706;5.725591;;ALERTE;12;C - Défectueux
+06/11/23 05:25:15;Chemin de Ferrandière, Champagnier;45.111805;5.725646;;ALERTE;107;C - Défectueux
+06/11/23 05:27:28;Chemin de Ferrandière, Champagnier;45.112568;5.726473;;ALERTE;18;C - Défectueux
+06/11/23 05:28:23;Chemin de Ferrandière, Champagnier;45.112701;5.726596;;ALERTE;22;C - Défectueux
+06/11/23 05:29:14;Chemin de Ferrandière, Champagnier;45.112862;5.726766;;ALERTE;65;C - Défectueux
+06/11/23 05:30:20;Chemin de Ferrandière, Champagnier;45.113255;5.727387;;ALERTE;115;C - Défectueux
+06/11/23 05:32:51;Allée des Vignes, Champagnier;45.11422;5.726856;;ALERTE;37;C - Défectueux
+06/11/23 05:33:25;Allée des Vignes, Champagnier;45.114502;5.727113;;ALERTE;101;C - Défectueux
+06/11/23 05:34:35;Allée des Vignes, Champagnier;45.115376;5.727467;;ALERTE;22;C - Défectueux
+06/11/23 05:35:05;Allée des Vignes, Champagnier;45.115204;5.727336;;ALERTE;69;C - Défectueux
+06/11/23 05:36:31;Allée des Vignes, Champagnier;45.114605;5.727127;;ALERTE;179;C - Défectueux
+06/11/23 05:39:19;Chemin des Grands Ducs, Champagnier;45.113213;5.725989;;ALERTE;12;C - Défectueux
+06/11/23 05:40:52;Chemin des Grands Ducs, Champagnier;45.113113;5.725919;;ALERTE;170;C - Défectueux
+06/11/23 05:42:59;Chemin du Clody, Champagnier;45.114643;5.725877;;ALERTE;99;C - Défectueux
+06/11/23 05:44:10;Chemin du Clody, Champagnier;45.114895;5.724667;;ALERTE;142;C - Défectueux
+06/11/23 05:46:28;Chemin du Chasselas, Champagnier;45.116081;5.725337;;ALERTE;46;C - Défectueux
+06/11/23 05:47:31;Chemin du Baccot, Champagnier;45.115746;5.725672;;ALERTE;4;C - Défectueux
+06/11/23 05:48:24;Chemin du Baccot, Champagnier;45.115715;5.725653;;ALERTE;98;C - Défectueux
+06/11/23 05:49:05;Chemin du Chasselas, Champagnier;45.116283;5.726608;;ALERTE;91;C - Défectueux
+06/11/23 05:51:02;Chemin du Pressoir, Champagnier;45.116486;5.725485;;ALERTE;26;C - Défectueux
+06/11/23 05:51:33;Chemin du Pressoir, Champagnier;45.1166;5.725201;;ALERTE;59;C - Défectueux
+06/11/23 05:52:45;Chemin du Pressoir, Champagnier;45.116741;5.724476;;ALERTE;51;C - Défectueux
+06/11/23 05:53:43;Chemin du Pressoir, Champagnier;45.116814;5.723829;;ALERTE;68;C - Défectueux
+06/11/23 05:55:34;Chemin du Muscat, Champagnier;45.116215;5.723646;;ALERTE;34;C - Défectueux
+06/11/23 05:56:26;Chemin du Muscat, Champagnier;45.116169;5.724073;;ALERTE;20;C - Défectueux
+06/11/23 05:56:55;Chemin du Muscat, Champagnier;45.116131;5.724319;;ALERTE;25;C - Défectueux
+06/11/23 05:57:27;Chemin du Muscat, Champagnier;45.116062;5.724616;;ALERTE;130;C - Défectueux
+06/11/23 05:59:33;Chemin de Croix Vieille, Champagnier;45.116058;5.722961;;ALERTE;108;C - Défectueux
+06/11/23 06:02:26;Chemin Côte Fauchée, Champagnier;45.115135;5.723398;;ALERTE;187;C - Défectueux
+06/11/23 06:05:06;Chemin Côte Fauchée, Champagnier;45.11557;5.721096;;ALERTE;63;C - Défectueux
+06/11/23 06:06:19;Chemin Côte Fauchée, Champagnier;45.115696;5.720314;;ALERTE;163;C - Défectueux
+06/11/23 06:09:17;Chemin Côte Fauchée, Champagnier;45.115776;5.718241;;ALERTE;35;C - Défectueux
+06/11/23 06:10:31;Chemin Côte Fauchée, Champagnier;45.115803;5.7178;;ALERTE;29;C - Défectueux
+06/11/23 06:11:37;Chemin Côte Fauchée, Champagnier;45.115829;5.717438;;ALERTE;54;C - Défectueux
+06/11/23 06:12:21;Chemin Côte Fauchée, Champagnier;45.116032;5.716818;;ALERTE;39;C - Défectueux
+06/11/23 06:13:26;Chemin Côte Fauchée, Champagnier;45.116161;5.716361;;ALERTE;0;C - Défectueux

@@ -1,0 +1,16 @@
+Date;Rue;Latitude;Longitude;Vitesse;Etat;Distance;Infos
+09/11/23 10:04:07;Rue Alfred de Vigny, Grenoble;45.168686;5.725603;;ALERTE;10;C - Mauvais tri
+09/11/23 10:05:15;Rue Alfred de Vigny, Grenoble;45.168755;5.725678;;ALERTE;123;C - Mauvais tri
+09/11/23 10:12:25;Rue Guy Môquet, Grenoble;45.167912;5.726694;;ALERTE;173;C - Stationnement gênant
+09/11/23 10:16:05;Allée de la Sylphide, Grenoble;45.167313;5.724662;;ALERTE;90;C - Mauvais tri
+09/11/23 10:19:01;Allée de la Sylphide, Grenoble;45.167324;5.725808;;ALERTE;712;C - Mauvais tri
+09/11/23 10:42:17;Inconnu, Grenoble;45.161938;5.720911;;ALERTE;142;C - Mauvais tri
+09/11/23 10:44:08;Rue du Mont Aiguille, Grenoble;45.161133;5.719499;;ALERTE;81;C - Mauvais tri
+09/11/23 11:00:30;Rue Francis Jammes, Grenoble;45.161793;5.719937;;ALERTE;24;C - Stationnement gênant
+09/11/23 11:01:37;Rue Francis Jammes, Grenoble;45.161987;5.719813;;ALERTE;0;C - Encombrants dans les bacs
+09/11/23 11:02:08;Rue Francis Jammes, Grenoble;45.161991;5.719815;;ALERTE;217;C - Mauvais tri
+09/11/23 11:11:02;Avenue de la Grande Chartreuse, Grenoble;45.163315;5.717791;;ALERTE;104;C - Défectueux
+09/11/23 11:14:20;Rue de la Dent de Crolles, Grenoble;45.162571;5.718594;;ALERTE;570;C - Mauvais tri
+09/11/23 11:29:19;Rue Lorenzaccio, Grenoble;45.165257;5.724788;;ALERTE;472;C - Mauvais tri
+09/11/23 12:06:40;Rue des Colibris, Grenoble;45.167191;5.730145;;ALERTE;860;C - Stationnement gênant
+09/11/23 12:27:56;Inconnu, Grenoble;45.164299;5.740305;;ALERTE;0;C - Mauvais tri

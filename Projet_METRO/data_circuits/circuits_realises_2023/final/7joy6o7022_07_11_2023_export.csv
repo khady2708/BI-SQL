@@ -1,0 +1,5 @@
+Date;Rue;Latitude;Longitude;Vitesse;Etat;Distance;Infos
+07/11/23 10:28:29;Allée des Deux Mondes, Grenoble;45.165279;5.726823;;ALERTE;333;NC - Défectueux
+07/11/23 12:00:03;Rue des Colibris, Grenoble;45.167152;5.730134;;ALERTE;170;C - Stationnement gênant
+07/11/23 12:29:03;Inconnu, Grenoble;45.168488;5.729091;;ALERTE;272;C - Travaux
+07/11/23 12:46:49;Rue Alfred de Vigny, Grenoble;45.168697;5.725638;;ALERTE;0;C - Mauvais lieu de présentation

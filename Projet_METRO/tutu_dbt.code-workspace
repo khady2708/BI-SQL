@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "../tutu_dbt"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}

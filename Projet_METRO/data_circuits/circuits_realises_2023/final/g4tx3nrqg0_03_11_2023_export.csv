@@ -1,0 +1,5 @@
+Date;Rue;Latitude;Longitude;Vitesse;Etat;Distance;Infos
+03/11/23 05:18:29;Rue des Champs Elysées, Grenoble;45.178436;5.709965;;ALERTE;125;C - Débordement - Surcharge
+03/11/23 05:34:59;Rue des Champs Elysées, Grenoble;45.178692;5.708415;;ALERTE;194;C - Mauvais lieu de présentation
+03/11/23 06:04:12;Rue Guynemer, Grenoble;45.177162;5.707236;;ALERTE;219;NC - Non sortis
+03/11/23 06:08:37;Rue Guynemer, Grenoble;45.176464;5.709851;;ALERTE;0;NC - Mauvais lieu de présentation
